@@ -1,0 +1,13 @@
+C:\Users\melbo\LaunchCodeWork\csharp-practice\chapter1\HelloWorld\HelloMelissa\bin\Debug\netcoreapp3.1\HelloMelissa.exe
+C:\Users\melbo\LaunchCodeWork\csharp-practice\chapter1\HelloWorld\HelloMelissa\bin\Debug\netcoreapp3.1\HelloMelissa.deps.json
+C:\Users\melbo\LaunchCodeWork\csharp-practice\chapter1\HelloWorld\HelloMelissa\bin\Debug\netcoreapp3.1\HelloMelissa.runtimeconfig.json
+C:\Users\melbo\LaunchCodeWork\csharp-practice\chapter1\HelloWorld\HelloMelissa\bin\Debug\netcoreapp3.1\HelloMelissa.runtimeconfig.dev.json
+C:\Users\melbo\LaunchCodeWork\csharp-practice\chapter1\HelloWorld\HelloMelissa\bin\Debug\netcoreapp3.1\HelloMelissa.dll
+C:\Users\melbo\LaunchCodeWork\csharp-practice\chapter1\HelloWorld\HelloMelissa\bin\Debug\netcoreapp3.1\HelloMelissa.pdb
+C:\Users\melbo\LaunchCodeWork\csharp-practice\chapter1\HelloWorld\HelloMelissa\obj\Debug\netcoreapp3.1\HelloMelissa.csprojAssemblyReference.cache
+C:\Users\melbo\LaunchCodeWork\csharp-practice\chapter1\HelloWorld\HelloMelissa\obj\Debug\netcoreapp3.1\HelloMelissa.AssemblyInfoInputs.cache
+C:\Users\melbo\LaunchCodeWork\csharp-practice\chapter1\HelloWorld\HelloMelissa\obj\Debug\netcoreapp3.1\HelloMelissa.AssemblyInfo.cs
+C:\Users\melbo\LaunchCodeWork\csharp-practice\chapter1\HelloWorld\HelloMelissa\obj\Debug\netcoreapp3.1\HelloMelissa.csproj.CoreCompileInputs.cache
+C:\Users\melbo\LaunchCodeWork\csharp-practice\chapter1\HelloWorld\HelloMelissa\obj\Debug\netcoreapp3.1\HelloMelissa.dll
+C:\Users\melbo\LaunchCodeWork\csharp-practice\chapter1\HelloWorld\HelloMelissa\obj\Debug\netcoreapp3.1\HelloMelissa.pdb
+C:\Users\melbo\LaunchCodeWork\csharp-practice\chapter1\HelloWorld\HelloMelissa\obj\Debug\netcoreapp3.1\HelloMelissa.genruntimeconfig.cache

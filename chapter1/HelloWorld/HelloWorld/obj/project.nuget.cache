@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VaV9uA9pP2Nhi0l0+bITTz5lNwsmfHb6/JrzgBu66R/MZFgorp27imHB7W3BxV1SqzLNHx0c+HW716ygUyyG3g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\melbo\\LaunchCodeWork\\csharp-practice\\chapter1\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\melbo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

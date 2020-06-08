@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GME0LE70tkdVCjOvLq4/56DoPYUauU0VqIOGGOP04sZKEzeMXj7zhPyR1VJMtxG2x/DEdLJstgRLArRE9IPHgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\melbo\\LaunchCodeWork\\csharp-practice\\chapter1\\HelloWorld\\HelloMelissa\\HelloMelissa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\melbo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
