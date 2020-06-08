@@ -30,14 +30,49 @@ namespace SchoolPractice
         // TODO: Complete the AddGrade method.
         public void AddGrade(int courseCredits, double grade)
         {
+            double totalQualityScore = Gpa * NumberOfCredits;
+            totalQualityScore += courseCredits * grade;
+            NumberOfCredits += courseCredits;
+            Gpa = totalQualityScore / NumberOfCredits;
+
             // Update the appropriate properties: NumberOfCredits, Gpa
         }
 
         //TODO: Complete the GetGradeLevel method here:
         public string GetGradeLevel(int credits)
         {
+            if (NumberOfCredits >= 90)
+            {
+                return "Grade Level: Senior";
+            }
+            else if (NumberOfCredits >= 60 && NumberOfCredits < 90)
+            {
+                return "Grade Level: Junior";
+            }
+            else if (NumberOfCredits >= 30 && NumberOfCredits < 60)
+            {
+                return "Grade Level: Sophomore";
+            }
+            else if (NumberOfCredits < 30)
+            {
+                return "Grade Level: Freshman";
+            }
             // Determine the grade level of the student based on NumberOfCredits
-            return "grade level tbd";
+            else
+            {
+                return "grade level tbd";
+            }
+        }
+
+        public override bool Equals(object obj)
+        {
+            return obj is Student student &&
+                   StudentId == student.StudentId;
+        }
+
+        public override int GetHashCode()
+        {
+            return HashCode.Combine(StudentId);
         }
 
         // TODO: Add your custom 'ToString' method here. Make sure it returns a well-formatted string rather
