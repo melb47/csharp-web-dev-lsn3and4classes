@@ -6,8 +6,8 @@ namespace SchoolPractice
 {
     class Teacher
     {
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
+        private string FirstName { get; set; }
+        private string LastName { get; set; }
         private string Subject { get; set; }
         private int YearsTeaching { get; set; }
 
